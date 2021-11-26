@@ -7,3 +7,5 @@ run from console
 dotnet build  BlogAPI/BlogAPI.csproj 
 
 dotnet run --project BlogAPI/BlogAPI.csproj 
+
+https://localhost:5000/Blogs
