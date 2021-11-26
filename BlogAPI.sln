@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI", "BlogAPI\BlogAPI.csproj", "{3234FF1A-BD13-450C-9D29-C40153919DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yalo.Test.BlogAPI.Core", "Yalo.Test.BlogAPI.Core\Yalo.Test.BlogAPI.Core.csproj", "{F16F8031-2BD2-42D0-B576-BE4DEA217BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3234FF1A-BD13-450C-9D29-C40153919DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3234FF1A-BD13-450C-9D29-C40153919DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3234FF1A-BD13-450C-9D29-C40153919DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3234FF1A-BD13-450C-9D29-C40153919DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16F8031-2BD2-42D0-B576-BE4DEA217BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16F8031-2BD2-42D0-B576-BE4DEA217BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16F8031-2BD2-42D0-B576-BE4DEA217BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16F8031-2BD2-42D0-B576-BE4DEA217BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
