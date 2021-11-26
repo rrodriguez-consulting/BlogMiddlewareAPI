@@ -9,3 +9,5 @@ dotnet build  BlogAPI/BlogAPI.csproj
 dotnet run --project BlogAPI/BlogAPI.csproj 
 
 https://localhost:5001/Blogs
+
+http://localhost:5000/Blogs
